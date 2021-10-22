@@ -1,5 +1,6 @@
 <p align='center'><a href=""><img src="https://github.com/HenriqueJRodrigues/Jogo-da-velha-Tic-Tac-Toe/blob/main/Assets/bannerJogoDaVelha.jpg" /></a></p><br>
 
+
  ## Adicionado:
 
 * [x] Menu interativo
@@ -16,20 +17,19 @@
 
 
 <p align='center'>Game</p><br>
-<p align='center'><img src="" /></p><br>
+<p align='center'><img src="https://github.com/HenriqueJRodrigues/Jogo-da-velha-Tic-Tac-Toe/blob/main/Assets/GameCompleto.gif" /></p><br>
 
 <p align='center'>Screenshot#01</p><br>
 <p align='center'><img src="https://github.com/HenriqueJRodrigues/Jogo-da-velha-Tic-Tac-Toe/blob/main/Assets/CVSC.JPG" /></p><br>
 
 <p align='center'>Menu interativo</p><br>
-<p align='center'><img src="" /></p><br>
+<p align='center'><img src="https://github.com/HenriqueJRodrigues/Jogo-da-velha-Tic-Tac-Toe/blob/main/Assets/menu.JPG" /></p><br>
 
 <p align='center'>Pontuação</p><br>
-<p align='center'><img src="" /></p><br>
+<p align='center'><img src="https://github.com/HenriqueJRodrigues/Jogo-da-velha-Tic-Tac-Toe/blob/main/Assets/pontuacao.JPG" /></p><br>
 
 <p align='center'>Rodapé "Menu"</p><br>
-<p align='center'><img src="" /></p>
+<p align='center'><img src="https://github.com/HenriqueJRodrigues/Jogo-da-velha-Tic-Tac-Toe/blob/main/Assets/Rodape.JPG" /></p>
 
-<p align='center'>Demonstração"</p><br>
-<p align='center'><img src="" /></p><br>
+
 
